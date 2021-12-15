@@ -1,8 +1,8 @@
 {
   "collectionName": "components_section_section_grids",
   "info": {
-    "name": "section-grid",
-    "icon": "adjust",
+    "name": "section_grid",
+    "icon": "address-book",
     "description": ""
   },
   "options": {},

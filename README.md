@@ -1,3 +1,3 @@
 # Strapi application
 
-Back end do Ladding page
+A quick description of your strapi application

@@ -15,7 +15,8 @@
       "required": true,
       "unique": true,
       "maxLength": 50,
-      "minLength": 4
+      "minLength": 4,
+      "regex": "^[a-zA-Z]+([0-9-]*[a-zA-Z]+)*$"
     },
     "background": {
       "type": "boolean",

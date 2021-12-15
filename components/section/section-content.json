@@ -2,7 +2,7 @@
   "collectionName": "components_section_section_contents",
   "info": {
     "name": "section_content",
-    "icon": "air-freshener"
+    "icon": "adjust"
   },
   "options": {},
   "attributes": {
@@ -17,7 +17,8 @@
     "metadata": {
       "type": "component",
       "repeatable": false,
-      "component": "section.section-metadata"
+      "component": "section.section-metadata",
+      "required": true
     }
   }
 }

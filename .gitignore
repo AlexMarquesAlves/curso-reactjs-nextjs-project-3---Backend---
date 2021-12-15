@@ -1,3 +1,5 @@
+package-lock.json
+
 ############################
 # OS X
 ############################
@@ -95,7 +97,6 @@ results
 node_modules
 .node_history
 
-
 ############################
 # Tests
 ############################
@@ -110,5 +111,8 @@ coverage
 .env
 license.txt
 exports
-.cache
+*.cache
 build
+.strapi-updater.json
+
+!ckeditor5-custom/*
